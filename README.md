@@ -1,4 +1,4 @@
-# Answering Business Questions
+# Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)
 In this project, I have been working with Northwind Database, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and its regarding sales transactions)
 
 The project consists of three parts:
